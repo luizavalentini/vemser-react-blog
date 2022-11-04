@@ -1,1 +1,1 @@
-# vemser-react-blog
+# vemser-react-blog-rick-and-morty
